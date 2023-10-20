@@ -1,4 +1,4 @@
-import Feed from "@components/feed";
+import Feed from "@components/Feed";
 import Image from "next/image";
 const Home = () => {
   return (

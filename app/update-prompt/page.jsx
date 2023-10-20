@@ -8,10 +8,12 @@ import Form from "@components/Form";
 
 const UpdatePrompt = () => {
   const { data: session } = useSession();
-  if (!session) {
-    router.push("/");
-    return null;
-  }
+  useEffect(() => {
+    if (!session) {
+      router.push("/");
+      return null;
+    }
+  }, []);
   const router = useRouter();
   const searchParams = useSearchParams();
   const promptId = searchParams.get("id");
