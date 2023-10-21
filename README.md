@@ -1,6 +1,6 @@
 Idealer is an open-source platform for modern world to discover, create and share creative new ideas.
 
-#Live preview: 
+##Live preview: 
 https://idealer-nine.vercel.app
 ## Getting Started
 
@@ -15,3 +15,5 @@ pnpm dev
 # or
 bun dev
 ```
+##Screenshot
+![alt text](https://github.com/WHAcKeR-T/Idealer/blob/main/Idealer_screenshot.png?raw=true)
