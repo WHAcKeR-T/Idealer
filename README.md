@@ -16,4 +16,4 @@ pnpm dev
 bun dev
 ```
 ##Screenshot
-![alt text](https://github.com/WHAcKeR-T/Idealer/blob/main/Idealer_screenshot.png?raw=true)
+![screenshot](https://github.com/WHAcKeR-T/Idealer/blob/main/Idealer%20screenshot.png)
